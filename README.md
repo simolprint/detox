@@ -1,2 +1,2 @@
 # server_detox
- 
+ detox
